@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ACEXS的博客</title>
   
-  <subtitle>xxs的个人博客</subtitle>
+  <subtitle>XXS的个人博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://acexs.netlify.com/"/>
@@ -38,13 +38,31 @@
     <link href="https://acexs.netlify.com/2019/12/02/about-me/"/>
     <id>https://acexs.netlify.com/2019/12/02/about-me/</id>
     <published>2019-12-01T16:33:34.000Z</published>
-    <updated>2019-12-01T16:33:34.397Z</updated>
+    <updated>2019-12-04T07:58:01.238Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
     
     </summary>
     
     
+      <category term="工具" scheme="https://acexs.netlify.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="Hexo" scheme="https://acexs.netlify.com/categories/%E5%B7%A5%E5%85%B7/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://acexs.netlify.com/tags/Hexo/"/>
+    
+      <category term="Netlify" scheme="https://acexs.netlify.com/tags/Netlify/"/>
+    
+      <category term="GitHub" scheme="https://acexs.netlify.com/tags/GitHub/"/>
     
   </entry>
   
